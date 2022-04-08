@@ -7,11 +7,11 @@ The 2021 dataset: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
 The 2020 dataset: https://www.kaggle.com/austinreese/craigslist-carstrucks-data/version/5
 
-# 3.Exploratory Data Analysis
-In this section, I tested various characteristics of used cars and try to have a better understanding of the data, as well as look at different combinations of features with the help of figures while exploring the data.
-
-# 4. Data Preprocessing
+# 3. Data Preprocessing
 Including missing value processing, encoding cateforical feature, and data normalization, to prepare the data for eslblishing predictive model.
+
+# 4.Exploratory Data Analysis
+In this section, I tested various characteristics of used cars and try to have a better understanding of the data, as well as look at different combinations of features with the help of figures while exploring the data.
 
 # 5.Prediction
 In this section, different machine learning algorithms, including Linear Regression, Decision Tree Regressor, Random Forest Tree Regressor, and XGBoost, are used to predict price/target variables. I applied machine learning models as a framework for data analysis. The dataset is supervised data, which refers to fitting a model of the dependent variable to the independent variable, with the goal of accurately predicting the dependent variable for future observation or understanding the relationship between the variables.
